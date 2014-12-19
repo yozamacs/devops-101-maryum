@@ -226,7 +226,7 @@
     "S3Bucket" : {
       "Type" : "AWS::S3::Bucket",
       "Properties" : {
-        "BucketName" : "devops-part-four"
+        "BucketName" : "devops-part-four-maryum"
       }
     },
 

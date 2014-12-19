@@ -1,8 +1,8 @@
 [ci-master]
-YOUR_CI_MASTER_PUBLIC_IP
+54.154.42.12
 
 [ci-slave]
-YOUR_CI_SLAVE_PUBLIC_IP
+54.154.30.153
 
 [ci-slave:vars]
-ci_master_private_ip=YOUR_CI_MASTER_PRIVATE_IP
+ci_master_private_ip=10.0.0.89
